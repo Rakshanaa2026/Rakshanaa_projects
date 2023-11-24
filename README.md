@@ -1,1 +1,2 @@
-# Rakshanaa_projects
+# Spam SMS detection 
+This project involves detection of Spam SMS using Machine learning techniques to create a model.Through the utilization of a carefully curated dataset, the model undergoes training to learn patterns and features indicative of spam content.The trained model is then fine-tuned to enhance its accuracy and generalization capabilities. Such projects contribute to the improvement of communication systems by providing users with tools to manage and maintain the integrity of their messaging platforms, ultimately enhancing the user experience and security.
